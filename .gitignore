@@ -20,3 +20,5 @@ multiple-versions-hadoop.iml
 .lein-repl-history
 .nrepl-port
 target/
+
+.DS_Store
